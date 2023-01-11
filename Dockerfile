@@ -1,1 +1,1 @@
-FROM mysql:debian
+FROM mysql:debian@sha256:ac248facf748e93a1022552d4f15311ef8bd8be7ba841305a1b404ed59196de6
